@@ -19,7 +19,10 @@ int main() {
     char myChar = 'a';
     printf("%c\n", myChar);
 
-    int radius=3;
+    int radius;
+    printf("Gebe den Radius deines Kreises an.");
+    scanf("%d",&radius);
+
     printf("Hier ist dein Kreis\n");
     printf("Radius ist %d\n", radius);
     printf("Durchmesser ist %d\n", radius * 2);
