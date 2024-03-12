@@ -12,7 +12,7 @@ int main(){
         printf("***************************\n");
         printf("Eingabe: \n");
         
-        scanf("%c%*c", &inp);
+        scanf("%c%*c", &inp); //doppelte ausgabe auch mit %s
         
         if(inp == 'd'){
             printf("Du hast Datei ausgewählt.\n");
