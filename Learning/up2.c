@@ -1,10 +1,9 @@
 #include <stdio.h>
 
-int z1, erg;
+int times[] = {5,10,15,20,25,30};
+int counter = 3;
 
 void main(){
-    printf("Gib Zahl:\n");
-    scanf("%d", &z1);
-    printf("Ergebnis:\n%d", z1*z1);
-    
+    printf("%d\n", counter);
+    printf("%d\n", times[counter]);
 }
