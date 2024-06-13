@@ -1,0 +1,20 @@
+{
+	"folders": [
+		{
+			"path": "../../../OneDrive/Dokumente/DuoringoGit/Duoringo"
+		},
+		{
+			"name": "Duoringo",
+			"path": "../../../OneDrive/Dokumente/PlatformIO/Projects/Duoringo"
+		},
+		{
+			"name": "Neopixel",
+			"path": "../../../OneDrive/Dokumente/PlatformIO/Projects/Neopixel"
+		},
+		{
+			"name": "SoundTest",
+			"path": "../../../OneDrive/Dokumente/PlatformIO/Projects/SoundTest"
+		}
+	],
+	"settings": {}
+}
