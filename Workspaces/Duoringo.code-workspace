@@ -1,19 +1,24 @@
 {
 	"folders": [
 		{
-			"path": "../../../OneDrive/Dokumente/DuoringoGit/Duoringo"
+			"name": "Duoringo",
+			"path": "../../../OneDrive/Dokumente/DuoringoGit/Duoringo/Duoringo"
 		},
 		{
 			"name": "Duoringo",
 			"path": "../../../OneDrive/Dokumente/PlatformIO/Projects/Duoringo"
 		},
 		{
-			"name": "Neopixel",
-			"path": "../../../OneDrive/Dokumente/PlatformIO/Projects/Neopixel"
+			"name": "Hello_World",
+			"path": "../../../OneDrive/Dokumente/PlatformIO/Projects/Hello_World"
 		},
 		{
-			"name": "SoundTest",
-			"path": "../../../OneDrive/Dokumente/PlatformIO/Projects/SoundTest"
+			"name": "Tests",
+			"path": "../../../OneDrive/Dokumente/PlatformIO/Projects/Tests"
+		},
+		{
+			"name": "LCD_Display",
+			"path": "../../../OneDrive/Dokumente/PlatformIO/Projects/LCD_Display"
 		}
 	],
 	"settings": {}
