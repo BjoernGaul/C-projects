@@ -19,6 +19,18 @@
 		{
 			"name": "LCD_Display",
 			"path": "../../../OneDrive/Dokumente/PlatformIO/Projects/LCD_Display"
+		},
+		{
+			"name": "RotaryEncoder",
+			"path": "../../../OneDrive/Dokumente/PlatformIO/Projects/RotaryEncoder"
+		},
+		{
+			"name": "RotaryDisplay",
+			"path": "../../../OneDrive/Dokumente/PlatformIO/Projects/RotaryDisplay"
+		},
+		{
+			"name": "Sounds",
+			"path": "../../../OneDrive/Dokumente/PlatformIO/Projects/Sounds"
 		}
 	],
 	"settings": {}
